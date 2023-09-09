@@ -73,6 +73,4 @@ This repository contains the initial infrastructure setup for a Kubernetes Clust
    - Clone the repository to your local machine.
    - Push your initial setup code to this repository.
 
----
 
-Feel free to copy, adapt, or expand upon this README template to meet your project's specific needs and to gain those extra marks! Good luck with your assignment.
